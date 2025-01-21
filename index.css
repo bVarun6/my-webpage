@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .bio, .skills, .contact {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills li {
+    background-color: #f1f1f1;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    color: #777;
+  }
